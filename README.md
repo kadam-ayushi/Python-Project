@@ -1,2 +1,2 @@
 # Python-Project
-Vehicle number plate detection an recognition
+Vehicle number plate detection and recognition
